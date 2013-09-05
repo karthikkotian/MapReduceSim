@@ -37,3 +37,6 @@ scheduler, conversely, splits the resources evenly among all the tasks, i.e., ev
 gets an equal share of resources. Lastly, the Capacity scheduler is an adaptation of the 
 Fairness scheduler built for large clusters. The Capacity scheduler utilizes sub-queues
 and priorities within the master node to make decisions as to whom to schedule tasks.
+
+
+The report on this project can be read on this document. http://people.rit.edu/~jas7553/pub/DistributedMind_TeamProject.pdf
