@@ -32,8 +32,8 @@ in a simulated MapReduce system using that criteria. The schedulers are outlined
 below.
 
 The First In First Out (FIFO) scheduler selects the first job in the queue, pops it off, 
-and splits the task evenly among all the worker nodes in the cluster. The Fairness scheduler, 
-conversely, splits the resources evenly among all the tasks, i.e., every task gets an 
-equal share of resources. Lastly, the Capacity scheduler is an adaptation of the Fairness 
-scheduler built for large clusters. The Capacity scheduler utilizes sub-queues and 
-priorities within the master node to make decisions as to whom to schedule tasks.
+and splits the task evenly among all the worker nodes in the cluster. The Fairness 
+scheduler, conversely, splits the resources evenly among all the tasks, i.e., every task
+gets an equal share of resources. Lastly, the Capacity scheduler is an adaptation of the 
+Fairness scheduler built for large clusters. The Capacity scheduler utilizes sub-queues
+and priorities within the master node to make decisions as to whom to schedule tasks.
