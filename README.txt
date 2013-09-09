@@ -41,4 +41,4 @@ and priorities within the master node to make decisions as to whom to schedule t
 
 The report on this project can be read on this document. http://people.rit.edu/~jas7553/pub/DistributedMind_TeamProject.pdf
 
-Software Archive : https://sites.google.com/site/distributedsystems4005730/
+Software Archive : http://people.rit.edu/~jas7553/pub/DistributedMind.zip
